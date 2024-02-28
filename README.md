@@ -4,8 +4,10 @@
     </h1>
 </div>
 <div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a Web Developer specializing in ReactJS. I enjoy sports, music, food, and travel.</p>
+    <h2></> About Me</h2>
+    <p>💻 I'm a Front End Web Developer specializing in React.</p>
+    <p>🌱 I love learning new things. Currently, I'm honing my Full stack skills.</p>
+    <p>👾 I'm open to collaborating on fun and interesting projects.</p>
 </div>
 
 <!--
